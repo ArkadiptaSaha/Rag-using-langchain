@@ -97,9 +97,4 @@ Contributions, improvements, and feedback are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under MIT License (or any license you choose).
-
-## 📁 Repository Structure
 
